@@ -14,8 +14,14 @@ A Python-based version of the popular Flappy Bird game built using Pygame. This 
 - Python 3.x
 -  Pygame library
 ### Steps to install
-1. **Clone the repository**: `git clone https://github.com/Agent-A345/Flappy-Bird.git`
-2. **Install pygame**: pip install pygame
+1. **Clone the repository**:
+```
+git clone https://github.com/Agent-A345/Flappy-Bird.git
+```
+2. **Install pygame**: 
+```
+pip install pygame
+```
 3. **Run the game**
 
 ## How to play
